@@ -1,4 +1,4 @@
-##REST Server in Node
+## REST Server in Node
 
 
 To use this server you need to install the dependencies:
